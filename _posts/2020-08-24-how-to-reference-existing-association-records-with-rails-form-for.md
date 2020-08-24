@@ -4,6 +4,7 @@ layout: post
 permalink: /how-to-reference-existing-association-records-with-rails-form-for/
 published: 17 February 2016
 category: instagram tech
+feature_image: /assets/img/posts/do-it.jpeg
 description: How to refence separate model association data with Rails form_for form method
 id: 15
 ---
